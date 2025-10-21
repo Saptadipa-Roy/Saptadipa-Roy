@@ -1,8 +1,8 @@
 ## Hi there 👋
 # I'm Saptadipa Roy
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saptadipa-Roy)](https://github.com/Saptadipa-Roy/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saptadipa-Roy&show_icons=true)](https://github.com/Saptadipa-Roy/github-readme-stats&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saptadipa-Roy&layout=compact)](https://github.com/Saptadipa-Roy/github-readme-stats&layout=compact)
 <!--
 **Saptadipa-Roy/Saptadipa-Roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
